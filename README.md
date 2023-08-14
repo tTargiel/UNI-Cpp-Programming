@@ -12,4 +12,4 @@ Below you can find several solutions that I found worth mentioning:
 - [image.cpp - Photo editing tool written solely in C++ (add watermark, blur, flip, inflate, negative, rotate, sepia, shrink, to grayscale)](https://github.com/tTargiel/UNI-Cpp-Programming/blob/main/Lista%2005/image.cpp)  
 - [my_widget.cpp - Virtual functions + Qt](https://github.com/tTargiel/UNI-Cpp-Programming/blob/main/Lista%2008/my_widget.cpp)  
 - [my_widget.cpp - Lilac chaser optical illusion created in Qt](https://github.com/tTargiel/UNI-Cpp-Programming/blob/main/Lista%2009/my_widget.cpp)  
-- [Bonus exercise sheet - Bitwise operations, C++ operators and "hacker" notation](https://github.com/tTargiel/UNI-Cpp-Programming/blob/main/Lista%20dodatkowa%20-%20Marzec/Tomasz%20Targiel%20-%20Lista%20dodatkowa%20-%20Marzec.pdf)  
+- [Bonus exercise sheet - Bitwise operations, C++ operators and "hacker" notation](https://github.com/tTargiel/UNI-Cpp-Programming/blob/main/Lista%20dodatkowa%20-%20Marzec/Lista%20dodatkowa%20-%20Marzec.pdf)  
